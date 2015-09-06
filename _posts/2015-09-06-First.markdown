@@ -1,0 +1,8 @@
+---
+layout: post
+title:  第一篇博客
+date:   2015-09-06 20:55:11
+category: "首篇blog"
+---
+
+很早之前就准备整一个blog, 了解到github+jelly符合我的预期, 于是就有了这个.
